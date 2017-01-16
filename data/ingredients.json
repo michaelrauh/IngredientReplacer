@@ -1,0 +1,566 @@
+{
+	"Almond paste": {
+		"amount": "1 1/3 cups",
+		"substitution": "1 3/4 cups ground blanched almonds plus 1 1/2 cups powdered sugar plus 1 egg white plus 1 teaspoon almond extract plus 1/4 teaspoon salt"
+	},
+	"Allspice": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 teaspoon cinnamon and 1/2 teaspoon ground cloves"
+	},
+	"Anchovies": {
+		"amount": "1 fillet",
+		"substitution": "1/2 teaspoon anchovy paste"
+	},
+	"Anise Seed": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon star anise"
+	},
+	"Anise Extract": {
+		"amount": "1 teaspoon",
+		"substitution": "1 1/2 teaspoon ground anise seed"
+	},
+	"Apple pie spice": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 teaspoon cinnamon, 1/4 teaspoon nutmeg, 1/8 teaspoon ground allspice, and either 1/8 teaspoon ground cardamom, ginger or cloves"
+	},
+	"Arrowroot starch": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon cornstarch"
+	},
+	"Bay leaf": {
+		"amount": "1 whole",
+		"substitution": "1/4 teaspoon crushed bay leaves"
+	},
+	"Beau Monde seasoning ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon seasoning salt"
+	},
+	"Beer": {
+		"amount": "1 cup",
+		"substitution": "1 cup water, white grape juice, apple cider or apple juice, diluted peach or apricot syrups. (Substitute equal amounts of liquid.)"
+	},
+	"Brandy": {
+		"amount": "1/4 cup",
+		"substitution": "1 tsp brandy extract plus enough water or liquid called for in recipe to make 1/4 cup"
+	},
+	"Bread Crumbs, dry": {
+		"amount": "1 cup",
+		"substitution": "1 cup crushed cracker crumbs"
+	},
+	"Bread Crumbs, Soft": {
+		"amount": "3/4 cup",
+		"substitution": "1 slice soft or fresh bread"
+	},
+	"Broth, beef or chicken ": {
+		"amount": "1 cup",
+		"substitution": "1 bouillon cube dissolved in 1 cup boiling water"
+	},
+	"Buttermilk (sour milk)": {
+		"amount": "1 cup",
+		"substitution": "1 cup milk plus 1 tablespoons vinegar (white or cider) or lemon juice (let stand 5 minutes before using)"
+	},
+	"Cajun Spice": {
+		"amount": "1 tablespoon",
+		"substitution": "1/2 teaspoon white pepper, 1/2 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/2 teaspoon ground red pepper, 1/2 teaspoon paprika, and 1/2 teaspoon black pepper"
+	},
+	"Cake Flour": {
+		"amount": "1 cup",
+		"substitution": "1 cup all-purpose flour minus 2 tablespoons"
+	},
+	"Cardamon, ground": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon ground anise"
+	},
+	"Catsup": {
+		"amount": "1 cup",
+		"substitution": "1 cup tomato sauce, 1/2 cup sugar, and 2 tbsp vinegar for use in cooking)"
+	},
+	"Chervil, fresh": {
+		"amount": "1 tablespoon chopped",
+		"substitution": "1 tablespoon chopped fresh parsley"
+	},
+	"Chicken stock base, instant ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 chicken bouillon cube"
+	},
+	"Chili sauce": {
+		"amount": "1 cup",
+		"substitution": "1 cup tomato sauce, 1/4 cup brown sugar, 2 tbsp vinegar, 1/4 tsp cinnamon, dash of ground cloves, and dash of allspice "
+	},
+	"Chives, finely chopped ": {
+		"amount": "2 teaspoons",
+		"substitution": "2 teaspoons finely chopped green onion tops"
+	},
+	"Chocolate chips, semi-sweet chips, melted ": {
+		"amount": "6-ounce package ",
+		"substitution": "2 squares unsweetened chocolate, 2 tablespoons shortening, and 1/2 cup sugar"
+	},
+	"Chocolate, semi-sweet ": {
+		"amount": "1 2/3 ounces",
+		"substitution": "1 ounce unsweetened chocolate and 4 teaspoon sugar "
+	},
+	"Chocolate, unsweetened ": {
+		"amount": "1 square or 1 ounce ",
+		"substitution": "3 tablespoons cocoa powder plus 1 tablespoon butter or margarine"
+	},
+	"Chocolate, white": {
+		"amount": "1 ounce",
+		"substitution": "1 ounce milk chocolate"
+	},
+	"Cocoa powder, natural unsweetened": {
+		"amount": "3 tablespoons",
+		"substitution": "1 ounce (square) chocolate (decrease fat called for in recipe by 1/2 tablespoon) "
+	},
+	"Cocoa, Dutch Processed": {
+		"amount": "3 tablespoons",
+		"substitution": "3 tablespoons natural unsweetened cocoa powder plus 1/8 teaspoon baking soda"
+	},
+	"Coconut ": {
+		"amount": "1 tablespoon grated, dry ",
+		"substitution": "1 1/2 tablespoons fresh grated coconut "
+	},
+	"Coconut cream, canned": {
+		"amount": "1 cup ",
+		"substitution": "1 cup heavy cream or whipping cream "
+	},
+	"Coconut milk, canned": {
+		"amount": "1 cup ",
+		"substitution": "1 cup whole milk"
+	},
+	"Coffee, strong brewed": {
+		"amount": "1/4 cup",
+		"substitution": "2 tablespoons instant espresso powder dissolved in 3 tablespoons hot water"
+	},
+	"Condensed cream of mushroom soup": {
+		"amount": "1 (10.75-ounce can)",
+		"substitution": "1 (10.75 ounce can) condensed cream of celery, cream of chicken, or golden mushroom soup."
+	},
+	"Cornmeal, self-rising ": {
+		"amount": "1 cup ",
+		"substitution": "7/8 cup plain, 1 1/2 tablespoons baking powder, and 1/2 teaspoon salt "
+	},
+	"Cornmeal, stone ground": {
+		"amount": "1 cup",
+		"substitution": "1 cup regular milled cornmeal, corn grits, polenta, or maize meal"
+	},
+	"Corn syrup": {
+		"amount": "1 cup ",
+		"substitution": "1 cup granulated sugar and 1/4 liquid (use whatever liquid is called for in the recipe)"
+	},
+	"Cornstarch (for thickening) ": {
+		"amount": "1 tablespoon",
+		"substitution": "2 tablespoon all-purpose flour "
+	},
+	"Cottage cheese": {
+		"amount": "1 cup",
+		"substitution": "1 cup farmer's cheese"
+	},
+	"Cracker crumbs": {
+		"amount": "1 cup ",
+		"substitution": "1 cup dry bread crumbs"
+	},
+	"Cream, half-and-half ": {
+		"amount": "1 cup ",
+		"substitution": "1/2 cup whole milk, plus 1/2 cup light cream"
+	},
+	"Cream, heavy (36 to 40% fat)": {
+		"amount": "1 cup ",
+		"substitution": "3/4 cup milk and 1/3 cup butter or margarine (for use in cooking or baking)"
+	},
+	"Cream, light (18 to 20% fat)": {
+		"amount": "1 cup ",
+		"substitution": "3/4 cup milk and 3 tablespoons butter or margarine (for use in cooking or baking) "
+	},
+	"Cream, whipped": {
+		"amount": "any amount",
+		"substitution": "Chill a 13 ounce can of evaporated milk for 12 hours. Add 1 tablespoon lemon juice. Whip until stiff. "
+	},
+	"Cream cheese": {
+		"amount": "1 cup",
+		"substitution": "1 cup pureed cottage cheese"
+	},
+	"Cream of tartar ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon lemon juice or vinegar "
+	},
+	"Creme fraiche": {
+		"amount": "1 cup",
+		"substitution": "Combine 1 cup heavy cream and 1 tablespoon plain yogurt. Let stand for 6 hours at room temperature"
+	},
+	"Currants": {
+		"amount": "1 cup",
+		"substitution": "1 cup raisins"
+	},
+	"Dill plant, fresh or dried ": {
+		"amount": "3 heads ",
+		"substitution": "1 tablespoons dill seed "
+	},
+	"Egg ": {
+		"amount": "1 whole (3 tablespoons or 1.7 ounce) ",
+		"substitution": "3 tablespoons and 1 teaspoon thawed frozen egg "
+	},
+	"Egg white": {
+		"amount": "1 white (2 tablespoons) ",
+		"substitution": "2 tablespoons thawed frozen egg white "
+	},
+	"Egg yolk": {
+		"amount": "1 yolk (1 1/2 tablespoons) ",
+		"substitution": "2 tablespoons sifted, dry egg yolk powder and 2 teaspoons water "
+	},
+	"Fish sauce": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon Worcestershire sauce"
+	},
+	"Flour, all-purpose (for thickening) ": {
+		"amount": "1 tablespoon",
+		"substitution": "1 1/2 teaspoon cornstarch, arrowroot starch, potato starch, or rice starch "
+	},
+	"Flour, cake": {
+		"amount": "1 cup sifted",
+		"substitution": "1 cup sifted all-purpose flour minus 2 tablespoons sifted all-purpose flour "
+	},
+	"Flour, self-rising ": {
+		"amount": "1 cup ",
+		"substitution": "1 cup minus 2 tablespoons all-purpose flour plus 1/1/2 tsp baking powder and 1/2 tsp salt"
+	},
+	"Flour, whole wheat ": {
+		"amount": "any amount",
+		"substitution": "Substitute whole wheat flour for 1/4 to 1/2 of the white flour called for in a recipe "
+	},
+	"Garlic ": {
+		"amount": "1 clove, small",
+		"substitution": "1/8 teaspoon garlic powder"
+	},
+	"Garlic Salt": {
+		"amount": "3/4 teaspoon",
+		"substitution": "1 medium-size clove or 1/2 teaspoon minced fresh garlic"
+	},
+	"Gelatin, powdered (plain or unflavored)": {
+		"amount": "1 envelope (1/4 ounce), 1 tablespoon granulated",
+		"substitution": "2 teaspoons agar agar"
+	},
+	"Gelatin, leaf or sheet": {
+		"amount": "4 leaves or sheets",
+		"substitution": "1 (1/4 ounce) envelope powdered gelatin"
+	},
+	"Gelatin, flavored ": {
+		"amount": "3-ounce package ",
+		"substitution": "1 tablespoon plain gelatin and 2 cups fruit juice "
+	},
+	"Ghee": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon butter"
+	},
+	"Ginger root, fresh": {
+		"amount": "1 teaspoon freshly grated",
+		"substitution": "1/2 teaspoon ground ginger"
+	},
+	"Green onions, fresh": {
+		"amount": "1/2 cup chopped",
+		"substitution": "1/2 cup chopped onion"
+	},
+	"Herbs, fresh": {
+		"amount": "1 tablespoon finely cut ",
+		"substitution": "1 teaspoon dried ground herbs "
+	},
+	"Herring": {
+		"amount": "8 ounces",
+		"substitution": "8 ounces sardines"
+	},
+	"Honey ": {
+		"amount": "1 cup ",
+		"substitution": "1 1/4 cup granulated sugar and 1/4 cup liquid (use liquid called for in recipe) "
+	},
+	"Horseradish": {
+		"amount": "1 tablespoon fresh",
+		"substitution": "2 tablespoons bottled "
+	},
+	"Hot pepper sauce": {
+		"amount": "1 teaspoon",
+		"substitution": "3/4 teaspoon cayenne pepper plus 1 teaspoon vinegar"
+	},
+	"Lemon juice, freshly squeezed": {
+		"amount": "1 tablespoon juice",
+		"substitution": "1 tablespoon bottled lemon juice"
+	},
+	"Lemon, whole": {
+		"amount": "1 medium",
+		"substitution": "2 tablespoons lemon juice and 2 to 3 teaspoons lemon rind (zest)"
+	},
+	"Lemon peel, dried ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 to 2 teaspoons grated fresh lemon peel (zest)"
+	},
+	"Lemon zest (peel)": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 teaspoon lemon extract"
+	},
+	"Lime zest (peel)": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon grated fresh lemon peel (zest)"
+	},
+	"Macaroni, (4 cups cooked) ": {
+		"amount": "2 cups uncooked ",
+		"substitution": "2 cups spaghetti, uncooked "
+	},
+	"Maple sugar": {
+		"amount": "1/2 cup ",
+		"substitution": "1 cup maple syrup (reduce liquid in recipe by 1/4 cup)"
+	},
+	"Maple Syrup": {
+		"amount": "about 2 cups",
+		"substitution": "Combine 2 cups sugar and 1 cup water, bring to clear boil; take off heat; add 1/2 teaspoon maple flavoring "
+	},
+	"Marshmallows, miniature ": {
+		"amount": "1 cup ",
+		"substitution": "8 to 10 large marshmallows"
+	},
+	"Marshmallow creme ": {
+		"amount": "1 jar",
+		"substitution": "melt 16 ounces of marshmallows and 3 1/2 tablespoons corn syrup in a double broiler"
+	},
+	"Mascarpone cheese": {
+		"amount": "1 cup",
+		"substitution": "1 cup creme fraiche"
+	},
+	"Mayonnaise (for use in salads and salad dressings ": {
+		"amount": "1 cup ",
+		"substitution": "1/2 cup yogurt and 1/2 cup mayonnaise "
+	},
+	"Me Yen seasoning ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon Beau Monde seasoning "
+	},
+	"Milk, evaporated (whole or skim) ": {
+		"amount": "1 cup plus ",
+		"substitution": "1 cup liquid whole milk "
+	},
+	"Milk, skim": {
+		"amount": "1 cup ",
+		"substitution": "4 to 5 tablespoons non-fat dry milk powder and enough water to make one cup, or follow manufacturer's directions "
+	},
+	"Milk, sweetened condensed ": {
+		"amount": "1 can (about 1 1/3 cups) ",
+		"substitution": "Heat the following ingredients until sugar and butter are dissolved: 1/3 cup and 2 tablespoons evaporated milk, 1 cup sugar, 3 tablespoons butter or margarine "
+	},
+	"Milk, whole": {
+		"amount": "1 cup ",
+		"substitution": "1 cup reconstituted non-fat dry milk and 2 tsp butter or margarine "
+	},
+	"Mint leaves, fresh chopped ": {
+		"amount": "1/4 cup ",
+		"substitution": "1 tablespoon dried mint leaves "
+	},
+	"Molasses": {
+		"amount": "1 cup ",
+		"substitution": "1 cup honey, dark corn syrup, maple syrup, brown rice syrup, or barley malt syrup"
+	},
+	"Mushrooms, fresh": {
+		"amount": "1 pound",
+		"substitution": "3 ounces dried mushrooms plus 1 1/2 cups water "
+	},
+	"Mustard, dry": {
+		"amount": "1 teaspoon",
+		"substitution": "1 tablespoon prepared mustard "
+	},
+	"Mustard, Dijon": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon dry mustard mixed with 1 teaspoon water, 1 teaspoon white wine vinegar, 1 tablespoon mayonnaise, and a pinch of sugar"
+	},
+	"Nuts, chopped, ground or whole": {
+		"amount": "1 cup ",
+		"substitution": "1 cup similar nuts (your favorite) prepared in the same way"
+	},
+	"Oil (for sauteing) ": {
+		"amount": "1/4 cup ",
+		"substitution": "1/4 cup melted margarine, butter, bacon drippings, shortening, or lard"
+	},
+	"Onion, fresh": {
+		"amount": "1 small ",
+		"substitution": "rehydrate 1 tbsp instant minced onion"
+	},
+	"Onion ": {
+		"amount": "1 small ",
+		"substitution": "1/4 cup chopped, fresh green onions "
+	},
+	"Orange, whole": {
+		"amount": "1 medium",
+		"substitution": "6 to 8 tablespoons juice and 2 to 3 tablespoon grated rind (zest)"
+	},
+	"Orange juice, freshly squeezed": {
+		"amount": "1 cup",
+		"substitution": "1 cup reconstituted frozen orange concentrate"
+	},
+	"Orange peel (zest), fresh ": {
+		"amount": "1 medium",
+		"substitution": "2 to 3 tablespoons grated fresh orange peel (zest) "
+	},
+	"Parmesan cheese, grated": {
+		"amount": "1/2 cup ",
+		"substitution": "1/2 cup grated Asiago cheese or grated Romano cheese"
+	},
+	"Parsley, fresh": {
+		"amount": "1 teaspoon chopped",
+		"substitution": "1 teaspoon dried parsley"
+	},
+	"Peanut Butter": {
+		"amount": "1 cup",
+		"substitution": "1 cup of another nut butter (such as almond or hazelnut butter)"
+	},
+	"Pepper, white": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon black pepper"
+	},
+	"Peppers, green bell ": {
+		"amount": "1 tablespoon dried",
+		"substitution": "3 tablespoons fresh green pepper, chopped "
+	},
+	"Peppers, red bell ": {
+		"amount": "1 tablespoon dried",
+		"substitution": "3 tablespoons fresh red bell pepper, chopped "
+	},
+	"Peppermint, dried ": {
+		"amount": "1 tablespoon",
+		"substitution": "1/4 cup chopped fresh mint "
+	},
+	"Pimento ": {
+		"amount": "2 tablespoons, chopped ",
+		"substitution": "rehydrate 1 tablespoon dried red bell peppers"
+	},
+	"Polenta, dry": {
+		"amount": "1 cup",
+		"substitution": "1 cup cornmeal"
+	},
+	"Poultry seasoning": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 teaspoon ground sage, 1/2 teaspoon dried thyme, and 1/2 teaspoon dried rosemary"
+	},
+	"Pumpkin pie spice ": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 teaspoon cinnamon, 1/4 teaspoon ginger, 1/8 teaspoon allspice, and 1/8 teaspoon nutmeg "
+	},
+	"Raisins": {
+		"amount": "1 cup",
+		"substitution": "1 cup dried currants"
+	},
+	"Rennet ": {
+		"amount": "1 tablet",
+		"substitution": "1 tablespoon liquid rennet"
+	},
+	"Rice (3 cups cooked) ": {
+		"amount": "1 cup regular, uncooked ",
+		"substitution": "1 cup uncooked converted rice "
+	},
+	"Ricotta cheese": {
+		"amount": "1 cup",
+		"substitution": "1 cup cottage cheese"
+	},
+	"Rum ": {
+		"amount": "1/4 cup ",
+		"substitution": "1 tablespoon rum extract plus enough liquid to make 1/4 cup "
+	},
+	"Shortening, melted ": {
+		"amount": "1 cup ",
+		"substitution": "1 cup cooking oil (cooking oil should not be substituted if recipe does not call for "
+	},
+	"Shortening, solid (used in baking) ": {
+		"amount": "1 cup ",
+		"substitution": "1 cup minus 2 tablespoons lard "
+	},
+	"Sour cream, cultured ": {
+		"amount": "1 cup ",
+		"substitution": "3/4 cup sour milk and 1/3 cup butter or margarine "
+	},
+	"Spearmint, dried ": {
+		"amount": "1 tablespoon",
+		"substitution": "1/4 cup chopped fresh mint"
+	},
+	"Star Anise, ground": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon ground anise seed"
+	},
+	"Sugar, brown (light or dark)": {
+		"amount": "1 cup firmly packed ",
+		"substitution": "1 cup granulated sugar"
+	},
+	"Sugar, superfine": {
+		"amount": "1 cup",
+		"substitution": "1 cup granulated white sugar processed in a food processor or grinder"
+	},
+	"Sugar, white": {
+		"amount": "1 cup ",
+		"substitution": "1 cup corn syrup, decrease liquid called for in recipe by 1/4 cup (never replace more than 1/2 cup sugar called for in recipe with corn syrup) "
+	},
+	"Tahini": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon peanut butter"
+	},
+	"Tapioca, instant or quick-cooking": {
+		"amount": "1 tablespoon",
+		"substitution": "2 tablespoons pear tapioca, soaked"
+	},
+	"Tapioca, quick-cooking for thickening ": {
+		"amount": "1 tablespoon ",
+		"substitution": "1 tablespoon of flour "
+	},
+	"Tomatoes, canned ": {
+		"amount": "1 cup ",
+		"substitution": "1 1/3 cups diced fresh tomatoes simmered 10 minutes "
+	},
+	"Tomatoes, fresh ": {
+		"amount": "2 cups, chopped ",
+		"substitution": "1 (16-ounce) can tomatoes"
+	},
+	"Tomatoes, packed ": {
+		"amount": "1 cup ",
+		"substitution": "1/2 cup tomato sauce plus 1/2 cup water"
+	},
+	"Tomato Juice": {
+		"amount": "1 cup ",
+		"substitution": "1/2 cup tomato sauce and 1/2 cup water "
+	},
+	"Tomato Sauce": {
+		"amount": "2 cups ",
+		"substitution": "3/4 cup tomato paste plus 1 cup water "
+	},
+	"Tomato Soup": {
+		"amount": "1 (10 3/4 ounce) can ",
+		"substitution": "1 cup tomato sauce plus 1/4 oz. can cup water"
+	},
+	"Treacle": {
+		"amount": "1 cup",
+		"substitution": "1 cup light or dark brown sugar"
+	},
+	"Vanilla bean": {
+		"amount": "1/2 bean",
+		"substitution": "1 tablespoon pure vanilla extract "
+	},
+	"Vanilla Extract, pure": {
+		"amount": "1 teaspoon",
+		"substitution": "1/2 vanilla bean"
+	},
+	"Vegetable Shortening, solid": {
+		"amount": "1 cup",
+		"substitution": "1 cup butter"
+	},
+	"Vinegar, Balsamic": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon sherry vinegar or cider vinegar"
+	},
+	"Vinegar, regular (white or cider)": {
+		"amount": "1 tablespoon",
+		"substitution": "1 tablespoon lemon or lime juice"
+	},
+	"Worcestershire sauce ": {
+		"amount": "1 teaspoon",
+		"substitution": "1 teaspoon bottled steak sauce "
+	},
+	"Yeast, active dry ": {
+		"amount": "1 tablespoon",
+		"substitution": "1 yeast cake, compressed "
+	},
+	"Yogurt, plain": {
+		"amount": "1 cup ",
+		"substitution": "1 cup buttermilk"
+	}
+}
