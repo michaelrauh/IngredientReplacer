@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
+var data = require('../data/ingredients.json');
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.handleChange = this.handleChange.bind(this);
-    this.state = {value: 'Type some *markdown* here!'};
+    this.state = {value: "Almond paste"};
   }
 
   handleChange() {
@@ -13,7 +14,8 @@ class App extends Component {
   }
 
   getRawMarkup() {
-    return { __html:this.state.value };
+    var temp = data[this.state.value].substitution;
+    return { __html:temp};
   }
 
   render() {
