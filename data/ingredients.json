@@ -1,23 +1,48 @@
 {
 	"Almond paste": {
 		"amount": "1 1/3 cups",
-		"substitution": "1 3/4 cups ground blanched almonds plus 1 1/2 cups powdered sugar plus 1 egg white plus 1 teaspoon almond extract plus 1/4 teaspoon salt"
+		"substitution": [
+			{
+				"ground blanched almonds": "1 3/4 cups",
+			  "powdered sugar": "1 1/2 cups",
+		    "egg white": "1",
+		    "almond extract": "1 teaspoon",
+		    "salt": "1/4 teaspoon"
+		 }
+	 ]
 	},
 	"Allspice": {
 		"amount": "1 teaspoon",
-		"substitution": "1/2 teaspoon cinnamon and 1/2 teaspoon ground cloves"
+		"substitution": [
+			{
+				"cinnamon": "1/2 teaspoon",
+				"ground cloves": "1/2 teaspoon"
+			}
+		]
 	},
 	"Anchovies": {
 		"amount": "1 fillet",
-		"substitution": "1/2 teaspoon anchovy paste"
+		"substitution": [
+			{
+				"anchovy paste": "1/2 teaspoon"
+			}
+		]
 	},
 	"Anise Seed": {
 		"amount": "1 teaspoon",
-		"substitution": "1 teaspoon star anise"
+		"substitution": [
+			{
+				"star anise": "1 teaspoon"
+			}
+		]
 	},
 	"Anise Extract": {
 		"amount": "1 teaspoon",
-		"substitution": "1 1/2 teaspoon ground anise seed"
+		"substitution": [
+			{
+				"ground anise seed": "1 1/2 teaspoon"
+			}
+		]
 	},
 	"Apple pie spice": {
 		"amount": "1 teaspoon",
@@ -25,7 +50,11 @@
 	},
 	"Arrowroot starch": {
 		"amount": "1 tablespoon",
-		"substitution": "1 tablespoon cornstarch"
+		"substitution":[
+			{
+				"cornstarch": "1 tablespoon"
+			}
+		]
 	},
 	"Bay leaf": {
 		"amount": "1 whole",
@@ -33,35 +62,95 @@
 	},
 	"Beau Monde seasoning ": {
 		"amount": "1 teaspoon",
-		"substitution": "1 teaspoon seasoning salt"
+		"substitution": [
+			{
+				"seasoning salt": "1 teaspoon"
+			}
+		]
 	},
 	"Beer": {
 		"amount": "1 cup",
-		"substitution": "1 cup water, white grape juice, apple cider or apple juice, diluted peach or apricot syrups. (Substitute equal amounts of liquid.)"
+		"substitution": [
+			{
+				"water": "1 cup"
+			},
+			{
+				"white grape juice": "1 cup"
+			},
+			{
+				"apple cider": "1 cup"
+			},
+			{
+				"apple juice": "1 cup"
+			}
+		]
 	},
 	"Brandy": {
 		"amount": "1/4 cup",
-		"substitution": "1 tsp brandy extract plus enough water or liquid called for in recipe to make 1/4 cup"
+		"substitution": [
+			{
+				"brandy extract": "1 tsp",
+				"water": "enough to make 1/4 cup"
+			}
+		]
 	},
 	"Bread Crumbs, dry": {
 		"amount": "1 cup",
-		"substitution": "1 cup crushed cracker crumbs"
+		"substitution":[
+			{
+				"crushed cracker crumbs": "1 cup"
+			}
+		]
 	},
 	"Bread Crumbs, Soft": {
 		"amount": "3/4 cup",
-		"substitution": "1 slice soft or fresh bread"
+		"substitution": [
+			{
+				"soft bread": "1 slice"
+			},
+			{
+				"fresh bread": "1 slice"
+			}
+		]
 	},
 	"Broth, beef or chicken ": {
 		"amount": "1 cup",
-		"substitution": "1 bouillon cube dissolved in 1 cup boiling water"
+		"substitution": [
+			{
+				"bouillon cube": "1",
+				"boiling water": "1 cup"
+			}
+		]
 	},
 	"Buttermilk (sour milk)": {
 		"amount": "1 cup",
-		"substitution": "1 cup milk plus 1 tablespoons vinegar (white or cider) or lemon juice (let stand 5 minutes before using)"
+		"substitution": [
+			{
+				"milk": "1 cup",
+				"white vinegar": "1 tablespoon"
+			},
+			{
+				"milk": "1 cup",
+				"cider vinegar": "1 tablespoon"
+			},
+			{
+				"milk": "1 cup",
+				"lemon juice": "1 tablespoon"
+			}
+		]
 	},
 	"Cajun Spice": {
 		"amount": "1 tablespoon",
-		"substitution": "1/2 teaspoon white pepper, 1/2 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/2 teaspoon ground red pepper, 1/2 teaspoon paprika, and 1/2 teaspoon black pepper"
+		"substitution": [
+			{
+				"white pepper": "1/2 teaspoon",
+				"garlic powder" : "1/2 teaspoon",
+				"onion powder" :"1/2 teaspoon",
+				"ground red pepper" :"1/2 teaspoon",
+				"paprika" :"1/2 teaspoon",
+				"black pepper" :"1/2 teaspoon"
+			}
+		]
 	},
 	"Cake Flour": {
 		"amount": "1 cup",
