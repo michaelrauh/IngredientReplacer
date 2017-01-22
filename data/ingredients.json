@@ -620,36 +620,82 @@
 		"amount": "1 cup",
 		"substitution": "1 cup light or dark brown sugar"
 	},
-	"Vanilla bean": {
+		"Vanilla bean": {
 		"amount": "1/2 bean",
-		"substitution": "1 tablespoon pure vanilla extract "
+		"substitution": 
+		[
+			{
+				"Pure vanilla extract": "1 teaspoon"
+			}
+		]	
 	},
 	"Vanilla Extract, pure": {
 		"amount": "1 teaspoon",
-		"substitution": "1/2 vanilla bean"
+		"substitution": 
+		[
+			{
+				"Vanilla bean": "1/2"
+			}
+		]
 	},
 	"Vegetable Shortening, solid": {
 		"amount": "1 cup",
-		"substitution": "1 cup butter"
+		"substitution": 
+		[
+			{
+				"Butter": "1 cup"
+			}
+		]
 	},
 	"Vinegar, Balsamic": {
 		"amount": "1 tablespoon",
-		"substitution": "1 tablespoon sherry vinegar or cider vinegar"
+		"substitution":
+		[
+			{
+				"Sherry vinegar": "1 tablespoon"
+			},
+			{
+				"Cider vinegar": "1 tablespoon"
+			}
+		]
 	},
 	"Vinegar, regular (white or cider)": {
 		"amount": "1 tablespoon",
-		"substitution": "1 tablespoon lemon or lime juice"
+		"substitution": 
+		[
+			{
+				"Lemon juice": "1 tablespoon"
+			},
+			{
+				"Lime juice": "1 tablespoon"
+			}
+		]
 	},
 	"Worcestershire sauce ": {
 		"amount": "1 teaspoon",
-		"substitution": "1 teaspoon bottled steak sauce "
+		"substitution":
+		[
+			{
+				"Steak Sauce": "1 teaspoon" 
+			}
+		]
 	},
 	"Yeast, active dry ": {
 		"amount": "1 tablespoon",
-		"substitution": "1 yeast cake, compressed "
+		"substitution": 
+		[
+			{
+				"Yeast Cake, compressed": "1"
+			}
+		]
 	},
 	"Yogurt, plain": {
 		"amount": "1 cup ",
-		"substitution": "1 cup buttermilk"
+		"substitution": 
+		[
+			{
+				"Buttermilk": "1 cup"
+			}
+		]
 	}
 }
