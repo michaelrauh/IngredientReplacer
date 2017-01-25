@@ -46,7 +46,26 @@
 	},
 	"Apple pie spice": {
 		"amount": "1 teaspoon",
-		"substitution": "1/2 teaspoon cinnamon, 1/4 teaspoon nutmeg, 1/8 teaspoon ground allspice, and either 1/8 teaspoon ground cardamom, ginger or cloves"
+		"substitution": [
+			{
+				"cinnamon": "1/2 teaspoon",
+				"nutmeg": "1/4 teaspoon",
+				"ground allspice": "1/8 teaspoon",
+				"ground cardamom": "1/8 teaspoon"
+			},
+			{
+				"cinnamon": "1/2 teaspoon",
+				"nutmeg": "1/4 teaspoon",
+				"ground allspice": "1/8 teaspoon",
+				"ginger": "1/8 teaspoon"
+			},
+			{
+				"cinnamon": "1/2 teaspoon",
+				"nutmeg": "1/4 teaspoon",
+				"ground allspice": "1/8 teaspoon",
+				"cloves": "1/8 teaspoon"
+			}
+		]
 	},
 	"Arrowroot starch": {
 		"amount": "1 tablespoon",
@@ -58,7 +77,11 @@
 	},
 	"Bay leaf": {
 		"amount": "1 whole",
-		"substitution": "1/4 teaspoon crushed bay leaves"
+		"substitution": [
+			{
+				"crushed bay leaves": "1/4 teaspoon"
+			}
+		]
 	},
 	"Beau Monde seasoning ": {
 		"amount": "1 teaspoon",
@@ -154,75 +177,173 @@
 	},
 	"Cake Flour": {
 		"amount": "1 cup",
-		"substitution": "1 cup all-purpose flour minus 2 tablespoons"
+		"substitution": [
+				{
+					"all-purpose flower": "1 cup minus 2 tablespoons"
+				}
+			]
 	},
 	"Cardamon, ground": {
 		"amount": "1 teaspoon",
-		"substitution": "1 teaspoon ground anise"
+		"substitution": [
+				{
+					"ground anise": "1 teaspoon"
+				}
+			]
 	},
 	"Catsup": {
 		"amount": "1 cup",
-		"substitution": "1 cup tomato sauce, 1/2 cup sugar, and 2 tbsp vinegar for use in cooking)"
+		"substitution": [
+				{
+					"tomato sauce": "1 cup",
+					"sugar": "1/2 cup",
+					"vinegar": "2 tbsp"
+				}
+			]
 	},
 	"Chervil, fresh": {
 		"amount": "1 tablespoon chopped",
-		"substitution": "1 tablespoon chopped fresh parsley"
+		"substitution": [
+				{
+					"chopped fresh parsley": "1 tablespoon"
+				}
+			]
 	},
 	"Chicken stock base, instant ": {
 		"amount": "1 teaspoon",
-		"substitution": "1 chicken bouillon cube"
+		"substitution": [
+				{
+					"chicken bouillon cube": "1"
+				}
+			]
 	},
 	"Chili sauce": {
 		"amount": "1 cup",
-		"substitution": "1 cup tomato sauce, 1/4 cup brown sugar, 2 tbsp vinegar, 1/4 tsp cinnamon, dash of ground cloves, and dash of allspice "
+		"substitution": [
+				{
+					"tomato sauce": "1 cup",
+					"brown sugar": "1/4 cup",
+					"vinegar": "2 tbsp",
+					"cinnamon": "1/4 tsp",
+					"ground cloves": "1 dash",
+					"allspice": "1 dash"
+				}
+			]
 	},
 	"Chives, finely chopped ": {
 		"amount": "2 teaspoons",
-		"substitution": "2 teaspoons finely chopped green onion tops"
+		"substitution": [
+				{
+						"finely chopped green onion tops": "2 teaspoons"
+				}
+			]
 	},
 	"Chocolate chips, semi-sweet chips, melted ": {
-		"amount": "6-ounce package ",
-		"substitution": "2 squares unsweetened chocolate, 2 tablespoons shortening, and 1/2 cup sugar"
+		"amount": "6-ounce package",
+		"substitution": [
+				{
+					"unsweetened chocolate": "2 squares",
+					"shortening": "2 tablespoons",
+					"sugar": "1/2 cup"
+				}
+			]
 	},
 	"Chocolate, semi-sweet ": {
 		"amount": "1 2/3 ounces",
-		"substitution": "1 ounce unsweetened chocolate and 4 teaspoon sugar "
+		"substitution": [
+				{
+					"unsweetened chocolate": "1 ounce",
+					"sugar": "4 teaspoon"
+				}
+			]
 	},
 	"Chocolate, unsweetened ": {
 		"amount": "1 square or 1 ounce ",
-		"substitution": "3 tablespoons cocoa powder plus 1 tablespoon butter or margarine"
+		"substitution": [
+				{
+					"cocoa powder": "3 tablespoons",
+					"butter": "1 tablespoon"
+				},
+				{
+					"cocoa powder": "3 tablespoons",
+					"margarine": "1 tablespoon"
+				}
+			]
 	},
 	"Chocolate, white": {
 		"amount": "1 ounce",
-		"substitution": "1 ounce milk chocolate"
+		"substitution": [
+				{
+					"milk chocolate": "1 ounce"
+				}
+			]
 	},
 	"Cocoa powder, natural unsweetened": {
 		"amount": "3 tablespoons",
-		"substitution": "1 ounce (square) chocolate (decrease fat called for in recipe by 1/2 tablespoon) "
+		"substitution": [
+				{
+					"chocolate": "1 ounce (square) (decrease fat called for in recipe by 1/2 tablespoon)"
+				}
+			]
 	},
 	"Cocoa, Dutch Processed": {
 		"amount": "3 tablespoons",
-		"substitution": "3 tablespoons natural unsweetened cocoa powder plus 1/8 teaspoon baking soda"
+		"substitution": [
+				{
+					"natural unsweetened cocoa powder": "3 tablespoons",
+					"baking soda": "1/8 teaspoon"
+				}
+			]
 	},
 	"Coconut ": {
 		"amount": "1 tablespoon grated, dry ",
-		"substitution": "1 1/2 tablespoons fresh grated coconut "
+		"substitution": [
+				{
+					"fresh grated coconut": "1 1/2 tablespoons"
+				}
+			]
 	},
 	"Coconut cream, canned": {
 		"amount": "1 cup ",
-		"substitution": "1 cup heavy cream or whipping cream "
+		"substitution": [
+				{
+					"heavy cream": "1 cup"
+				},
+				{
+					"whipping cream": "1 cup"
+				}
+			]
 	},
 	"Coconut milk, canned": {
 		"amount": "1 cup ",
-		"substitution": "1 cup whole milk"
+		"substitution": [
+				{
+					"whole milk": "1 cup"
+				}
+			]
 	},
 	"Coffee, strong brewed": {
 		"amount": "1/4 cup",
-		"substitution": "2 tablespoons instant espresso powder dissolved in 3 tablespoons hot water"
+		"substitution": [
+				{
+					"instant espresso powder": "2 tablespoons",
+					"hot water": "3 tablespoons"
+				}
+			]
 	},
 	"Condensed cream of mushroom soup": {
 		"amount": "1 (10.75-ounce can)",
-		"substitution": "1 (10.75 ounce can) condensed cream of celery, cream of chicken, or golden mushroom soup."
+		"substitution": [
+				{
+					"condensed cream of celery soup": "1 (10.75 ounce) can"
+				},
+				{
+					"condensed cream of chicken soup": "1 (10.75 ounce) can"
+				},
+				{
+					"condensed cream of golden mushroom soup": "1 (10.75 ounce) can"
+				}
+			]
 	},
 	"Cornmeal, self-rising ": {
 		"amount": "1 cup ",
@@ -622,16 +743,16 @@
 	},
 		"Vanilla bean": {
 		"amount": "1/2 bean",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Pure vanilla extract": "1 teaspoon"
 			}
-		]	
+		]
 	},
 	"Vanilla Extract, pure": {
 		"amount": "1 teaspoon",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Vanilla bean": "1/2"
@@ -640,7 +761,7 @@
 	},
 	"Vegetable Shortening, solid": {
 		"amount": "1 cup",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Butter": "1 cup"
@@ -661,7 +782,7 @@
 	},
 	"Vinegar, regular (white or cider)": {
 		"amount": "1 tablespoon",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Lemon juice": "1 tablespoon"
@@ -676,13 +797,13 @@
 		"substitution":
 		[
 			{
-				"Steak Sauce": "1 teaspoon" 
+				"Steak Sauce": "1 teaspoon"
 			}
 		]
 	},
 	"Yeast, active dry ": {
 		"amount": "1 tablespoon",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Yeast Cake, compressed": "1"
@@ -691,7 +812,7 @@
 	},
 	"Yogurt, plain": {
 		"amount": "1 cup ",
-		"substitution": 
+		"substitution":
 		[
 			{
 				"Buttermilk": "1 cup"
