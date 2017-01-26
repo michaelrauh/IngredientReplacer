@@ -703,43 +703,90 @@
 	},
 	"Tahini": {
 		"amount": "1 tablespoon",
-		"substitution": "1 tablespoon peanut butter"
+		"substitution": 
+		[
+			{
+				"Peanut Butter": "1 tablespoon"
+			}
+		]
 	},
 	"Tapioca, instant or quick-cooking": {
 		"amount": "1 tablespoon",
-		"substitution": "2 tablespoons pear tapioca, soaked"
+		"substitution": 
+		[
+			{
+				"Pear Tapioca, soaked": "2 tablespoons"
+			}
+		]
 	},
 	"Tapioca, quick-cooking for thickening ": {
 		"amount": "1 tablespoon ",
-		"substitution": "1 tablespoon of flour "
+		"substitution": 
+		[
+			{
+				"Flour": "1 tablespoon"
+			}
+		]
 	},
 	"Tomatoes, canned ": {
 		"amount": "1 cup ",
-		"substitution": "1 1/3 cups diced fresh tomatoes simmered 10 minutes "
+		"substitution": 
+		[
+			{
+				"Fresh Tomatoes, simmered 10 minutes": "1 1/3 cups"
+			}
+		]
 	},
 	"Tomatoes, fresh ": {
 		"amount": "2 cups, chopped ",
-		"substitution": "1 (16-ounce) can tomatoes"
+		"substitution": 
+		[
+			{
+				"Tomatoes": "1 can, 16oz"
+			}
+		]
 	},
 	"Tomatoes, packed ": {
 		"amount": "1 cup ",
-		"substitution": "1/2 cup tomato sauce plus 1/2 cup water"
+		"substitution": 
+		[
+			{
+				"Tomato Sauce": "1/2 cup",
+				"Water": "1/2 cup"
+			}
+		]
 	},
 	"Tomato Juice": {
 		"amount": "1 cup ",
-		"substitution": "1/2 cup tomato sauce and 1/2 cup water "
+		"substitution": 
+		[
+			{
+				"Tomato sauce": "1/2 cup",
+				"Water": "1/2 cup"
+			}
+		]
 	},
 	"Tomato Sauce": {
 		"amount": "2 cups ",
-		"substitution": "3/4 cup tomato paste plus 1 cup water "
-	},
-	"Tomato Soup": {
-		"amount": "1 (10 3/4 ounce) can ",
-		"substitution": "1 cup tomato sauce plus 1/4 oz. can cup water"
+		"substitution": 
+		[
+			{
+				"Tomato Paste": "3/4 cup",
+				"Water": "1 cup"
+			}
+		]
 	},
 	"Treacle": {
 		"amount": "1 cup",
-		"substitution": "1 cup light or dark brown sugar"
+		"substitution": 
+		[
+			{
+				"White Sugar": "1 Cup"
+			},
+			{
+				"Brown Sugar": "1 Cup"
+			}
+		]
 	},
 		"Vanilla bean": {
 		"amount": "1/2 bean",
