@@ -1,5 +1,5 @@
 $.getJSON("data/ingredients.json", function(json) { 
-    console.log("test!");
+    console.log("loaded!");
     setup(json);
 });
 
@@ -24,8 +24,9 @@ function setupEventHandlers(data) {
 
 function ingredientsAutocomplete(data) { 
     var keys = Object.keys(data);
+    console.log(keys)
     //test
     $("#ingredient").autocomplete({
-        source: data
+        source: keys
     });
 }
