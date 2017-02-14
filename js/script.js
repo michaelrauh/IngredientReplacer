@@ -20,13 +20,38 @@ function render(data) {
 
 function setupEventHandlers(data) { 
     ingredientsAutocomplete(data);
+    $("#submit").click(function () { 
+        key = $("#ingredient").val();
+        console.log(data[key]);
+        constructResultsTable(data[key]); 
+    });
 }
 
 function ingredientsAutocomplete(data) { 
     var keys = Object.keys(data);
-    console.log(keys)
     //test
     $("#ingredient").autocomplete({
-        source: keys
+        source: function(request, response) {
+            var results = $.ui.autocomplete.filter(keys, request.term);
+            response(results.slice(0, 10));
+        }
     });
+}
+
+/*
+    Rendering results
+*/
+
+function constructResultsTable(data) {
+    var table = "<table>";
+    table += "<tr>";
+    table += "<td>" + "Amount" + "<td>";
+    counter = 0; 
+    data["substitution"].forEach(function(sub, amount) {
+        counter += 1;
+        table += "<td>" + "Substitution" + "#" + counter + "</td>";
+        table += "<td>" + "Amount" + "#" + counter + "</td>";
+    });
+
+    $("#results").append(table);
 }
