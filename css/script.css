@@ -1,32 +1,32 @@
-html, body{
-    height:100%; 
-    margin:0;
-    padding:0
-}
- 
-.container-fluid{
-  height:100%;
-  display:table;
-  width: 100%;
-  padding: 0;
-}
- 
-.row-fluid {
-    height: 100%; 
-    display:table-cell; 
-    vertical-align: middle;
+.ingRep {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
 
-.centered {
-  float:none;
-  margin:0 auto;
+#search {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  width: 22.5%;
 }
 
-/*
-.ui-autocomplete {
-    max-height: 200px;
-    overflow-y: auto;
-    overflow-x: hidden;
-    padding-right: 20px;
+#ingredient { 
+  width: 250%;
+  height: 2.5em;
+  text-align: center;
 }
-*/
+
+#submit { 
+  width:margin-left: -5em;
+  width: 25%;
+  height: 2.5em;
+}
+
+.results { 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

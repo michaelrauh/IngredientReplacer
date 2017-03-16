@@ -28,12 +28,10 @@ function setupEventHandlers(data) {
 
 function ingredientsAutocomplete(data) { 
     var keys = Object.keys(data);
-    //test
     $("#ingredient").autocomplete({
         source: function(request, response) {
             var results = $.ui.autocomplete.filter(keys, request.term);
-            response(results.slice(0, 10));
-            
+            response(results.slice(0, 10));   
         },
         minLength: 0,
         delay: 0
@@ -57,24 +55,26 @@ function renderHTML(data) {
     if (data["substitution"].length == 1) {
         renderSubstitution(data["substitution"][0]);
     } else {
-        data["substitution"].forEach( function(substitution) {
-            renderSubstitution(substitution);
-        });
+        data["substitution"].forEach(renderSubstitution);
     }
 
 }
 
 function renderAmount(amount) {
-    var amounts = "<div>"
+    var amounts = "<div id='results__amount'>"
     amounts += "<h4>Amount</h4>"
     amounts += "<p>" + amount + "</p>"
     amounts += "</div>"
     results.html(amounts);
 }
 
-function renderSubstitution(substitution) { 
-    substitutionList = "<div>";
-    for ( ingredient in substitution ) {
+function renderSubstitution(substitution, index, array) { 
+    console.log(substitution);
+    console.log(index);
+    console.log(array);
+    substitutionList = "<div class='substitution'>";
+    substitutionList = "<h4>Substitution</h4>";
+    for (ingredient in substitution) {
         if (substitution.hasOwnProperty(ingredient)) {
             substitutionList += ingredient + " : " + substitution[ingredient] + "<br>"; 
         }
