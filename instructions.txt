@@ -1,0 +1,7 @@
+Server set up instructions:
+
+https://github.com/indexzero/http-server
+
+best launch command: 
+
+http-server ./ localhost -p 8080 -c-1

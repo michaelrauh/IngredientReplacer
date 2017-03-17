@@ -1,0 +1,32 @@
+.ingRep {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#search {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  width: 22.5%;
+}
+
+#ingredient { 
+  width: 250%;
+  height: 2.5em;
+  text-align: center;
+}
+
+#submit { 
+  width:margin-left: -5em;
+  width: 25%;
+  height: 2.5em;
+}
+
+.results { 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
